@@ -1,0 +1,54 @@
+ {
+  "movieLibrary": {
+    "categories": {
+      "popular": [
+        {
+          "id": 1,
+          "title": "Movie Title 1",
+          "posterUrl": "https://example.com/poster1.jpg",
+          "rating": 8.5,
+          "releaseDate": "2024-06-15"
+        },
+        {
+          "id": 2,
+          "title": "Movie Title 2",
+          "posterUrl": "https://example.com/poster2.jpg",
+          "rating": 7.9,
+          "releaseDate": "2024-05-22"
+        }
+      ],
+      "topRated": [
+        {
+          "id": 3,
+          "title": "Movie Title 3",
+          "posterUrl": "https://example.com/poster3.jpg",
+          "rating": 9.3,
+          "releaseDate": "2023-11-10"
+        },
+        {
+          "id": 4,
+          "title": "Movie Title 4",
+          "posterUrl": "https://example.com/poster4.jpg",
+          "rating": 9.0,
+          "releaseDate": "2022-12-01"
+        }
+      ],
+      "upcoming": [
+        {
+          "id": 5,
+          "title": "Movie Title 5",
+          "posterUrl": "https://example.com/poster5.jpg",
+          "rating": null,
+          "releaseDate": "2024-09-01"
+        },
+        {
+          "id": 6,
+          "title": "Movie Title 6",
+          "posterUrl": "https://example.com/poster6.jpg",
+          "rating": null,
+          "releaseDate": "2024-10-20"
+        }
+      ]
+    }
+  }
+}

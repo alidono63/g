@@ -1,0 +1,50 @@
+.app.light {
+  background-color: white;
+  color: black;
+}
+
+.app.dark {
+  background-color: black;
+  color: white;
+}
+img{
+  height: 50px;
+  width: 50px;
+}
+.nightmode{
+  margin-left: 90%;
+  border-radius: 5%;
+  background-color: #353D44;
+  box-sizing: border-box;
+  height: 50px;
+  width: 50px;
+}
+.link{
+  font-size: xx-large;
+  font-weight: 600;
+  margin: 20px;
+}
+.title{
+  font-size: 6rem;
+  font-weight: 900;
+  
+}
+main{
+  height: 90rem;
+}
+.navigation{
+  border-style: dotted;
+  position: absolute;
+  margin-left: 25%;
+
+}
+footer{
+  margin-left: 50%;
+}
+.navbar{
+  border-style: solid;
+  background-color: darkcyan;
+}
+.TopRted{
+  background-color:aquamarine;
+}
